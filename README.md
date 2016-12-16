@@ -38,3 +38,5 @@ Preview: http://modularcode.io/modular-admin-html/
 #### Paper Dashboard Admin
 Preview: http://demos.creative-tim.com/paper-dashboard/dashboard.html
 
+#### Minimal Admin from W3Layouts
+Preview: https://p.w3layouts.com/demos/minimal_admin_panel/web/index.html
