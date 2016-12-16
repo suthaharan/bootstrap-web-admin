@@ -34,3 +34,7 @@ Preview: http://pratikborsadiya.in/vali-admin/index.html
 
 #### Modular Admin
 Preview: http://modularcode.io/modular-admin-html/
+
+#### Paper Dashboard Admin
+Preview: http://demos.creative-tim.com/paper-dashboard/dashboard.html
+
