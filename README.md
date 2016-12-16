@@ -29,3 +29,5 @@ Preview: http://www.blacktie.co/demo/dashgum/panels.html
 ## Nice Admin
 Preview: https://bootstrapmade.com/demo/themes/NiceAdmin/
 
+## RDash Angular Admin
+Preview: http://rdash.github.io/#/
