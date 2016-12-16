@@ -11,23 +11,26 @@ Bootstrap admin templates available on web
     $ gulp serve
 ```
 
-
 #### Start Bootstrap Admin
 Preview: https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
 
 #### Gentelella Alela!
 Preview: https://colorlib.com/polygon/gentelella/index.html
 
-
 #### Metis
 Preview: https://colorlib.com/polygon/metis/
-
 
 #### Dashgum
 Preview: http://www.blacktie.co/demo/dashgum/panels.html
 
-## Nice Admin
+#### Nice Admin
 Preview: https://bootstrapmade.com/demo/themes/NiceAdmin/
 
-## RDash Angular Admin
+#### RDash Angular Admin
 Preview: http://rdash.github.io/#/
+
+#### Vali Admin
+Preview: http://pratikborsadiya.in/vali-admin/index.html
+
+#### Modular Admin
+Preview: http://modularcode.io/modular-admin-html/
