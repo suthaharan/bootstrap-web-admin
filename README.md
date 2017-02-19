@@ -40,3 +40,12 @@ Preview: http://demos.creative-tim.com/paper-dashboard/dashboard.html
 
 #### Minimal Admin from W3Layouts
 Preview: https://p.w3layouts.com/demos/minimal_admin_panel/web/index.html
+
+[Harmony - Free responsive Bootstrap admin template ](http://themestruck.com/theme/harmony-admin) Beautifully Designed Responsive Bootstrap Template
+
+#### CoreUI
+Preview: https://genesisui.com/demo/prime/bootstrap4-static/
+
+#### AirCraft Bootstrap Admin
+Preview: http://files.portnine.com/bootstrap-themes/AircraftAdmin/1.0/preview/
+
